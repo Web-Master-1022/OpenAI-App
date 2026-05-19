@@ -40,3 +40,4 @@ AI bug fixers are computer programs designed to automatically detect and fix sof
 
 It uses AI algorithms to automatically generate answers to questions in natural language text.
 
+Hello from two people!
